@@ -1,1 +1,3 @@
-# pdms-man-overboard
+# Dynamic UAV-based search operations using probabilistic diffusion modeling of Man Overboard incident victims
+
+This repository contains the codebase for the simulation environment, prediction method and dynamic search area methods for the paper "Dynamic UAV-based search operations using probabilistic diffusion modeling of Man Overboard incident victims". The code will be released upon acceptance of the paper. 
